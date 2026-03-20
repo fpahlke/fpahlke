@@ -28,7 +28,7 @@ At RPACT, I focus on **software architecture**, **functional design**, **impleme
 - 🌐 Website: [www.rpact.com](https://www.rpact.com)  
 - 💼 LinkedIn: [linkedin.com/in/fpahlke](https://www.linkedin.com/in/pahlke/)  
 - 🧩 R Package: [rpact on CRAN](https://cran.r-project.org/package=rpact)  
-- 📊 RPACT Cloud Demo: [cloud.rpact.com](https://cloud.rpact.com)
+- 📊 RPACT Cloud Demo: [rpact.cloud](https://rpact.cloud)
 
 ---
 
